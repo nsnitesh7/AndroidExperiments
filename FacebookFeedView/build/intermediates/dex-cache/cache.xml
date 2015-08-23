@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\nitesi\AndroidStudioProjects\AndroidExperiments\FacebookFeedView\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\nitesi\AndroidStudioProjects\AndroidExperiments\FacebookFeedView\app\build\intermediates\pre-dexed\debug\classes-6128fabcce5f0f798fc45ef7246cabfa04b07d09.jar" />
+    </item>
+    <item
+        jar="C:\Users\nitesi\AndroidStudioProjects\AndroidExperiments\FacebookFeedView\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\nitesi\AndroidStudioProjects\AndroidExperiments\FacebookFeedView\app\build\intermediates\pre-dexed\debug\classes-3fdf6eb7daa9db4d1a9d4dd675585a99631f9fe8.jar" />
+    </item>
+    <item
+        jar="C:\Users\nitesi\AndroidStudioProjects\AndroidExperiments\FacebookFeedView\app\libs\volley.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
+        <dex dex="C:\Users\nitesi\AndroidStudioProjects\AndroidExperiments\FacebookFeedView\app\build\intermediates\pre-dexed\debug\volley-43cb8293e8690b1ccbdd18569bfbd3087ac6fcd2.jar" />
+    </item>
+    <item
+        jar="C:\Users\nitesi\AndroidStudioProjects\AndroidExperiments\FacebookFeedView\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\nitesi\AndroidStudioProjects\AndroidExperiments\FacebookFeedView\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-51fdc45cd7bcdc30d71e14d81fe0708f2fdc0544.jar" />
+    </item>
+    <item
+        jar="C:\Users\nitesi\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\nitesi\AndroidStudioProjects\AndroidExperiments\FacebookFeedView\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-3d7aaaa4a8f752e22c7de7e6db26bfb2fd2ea3ec.jar" />
+    </item>
+
+</items>
